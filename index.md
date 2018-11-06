@@ -10,7 +10,31 @@ A picture says more than a thousand words. Nevertheless, a few sentences about t
 
 #### Visualization
 
-![Schematic representation](https://farm5.staticflickr.com/4882/31878653118_7b9627fd9e_b.jpg)
+```markdown
+
+ Internet service provider (ISP)
+
+            +
+            | xDSL Interface
+            |                              Raspberry PI               +-----+
+            |                                                         |     | ETH1-N
+          +-+-----+                           +----+                  |     +----------+ PC/ PAD/ ...
+          |       +---------------------------+    +------------------+     |
+          |       | ETH0             USB ETH1 |    | USB ETH2         |     +----------+ PC/ PAD/ ...
+          +-------+                           +-+--+                  +-----+
+                                                | ETH0
+ Home Router (RD) or Home Gateway (HG)          |                     Switch
+                                                |
+                                                |
+                                                | ETH0
+                                           +----+----+
+                                           |         |
+                                           |         |
+                                           +---------+
+
+                                            UBUNTU PC
+
+```
 
 ------------------------------------------------------
 
@@ -38,32 +62,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-```markdown
-
- Internet service provider (ISP)
-
-            +
-            | xDSL Interface
-            |                              Raspberry PI               +-----+
-            |                                                         |     | ETH1-N
-          +-+-----+                           +----+                  |     +----------+ PC/ PAD/ ...
-          |       +---------------------------+    +------------------+     |
-          |       | ETH0             USB ETH1 |    | USB ETH2         |     +----------+ PC/ PAD/ ...
-          +-------+                           +-+--+                  +-----+
-                                                | ETH0
- Home Router (RD) or Home Gateway (HG)          |                     Switch
-                                                |
-                                                |
-                                                | ETH0
-                                           +----+----+
-                                           |         |
-                                           |         |
-                                           +---------+
-
-                                            UBUNTU PC
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
