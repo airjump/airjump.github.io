@@ -41,11 +41,29 @@ Syntax highlighted code block
 ```
 
 ```markdown
-`
-def foo():
-    if not bar:
-        return True
-`
+
+ Internet service provider (ISP)
+
+            +
+            | xDSL Interface
+            |                              Raspberry PI               +-----+
+            |                                                         |     | ETH1-N
+          +-+-----+                           +----+                  |     +----------+ PC/ PAD/ ...
+          |       +---------------------------+    +------------------+     |
+          |       | ETH0             USB ETH1 |    | USB ETH2         |     +----------+ PC/ PAD/ ...
+          +-------+                           +-+--+                  +-----+
+                                                | ETH0
+ Home Router (RD) or Home Gateway (HG)          |                     Switch
+                                                |
+                                                |
+                                                | ETH0
+                                           +----+----+
+                                           |         |
+                                           |         |
+                                           +---------+
+
+                                            UBUNTU PC
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
