@@ -2,7 +2,7 @@
 
 ### Preamble
 
-I will try to document everything here in English. The goal is to share my knowledge with many in the community. The project should be an attempt to illuminate the aspect of security and to gain experience around the topic of networks and Linux. The best way to contact me is through Twitter: [@airjump](https://twitter.com/airjump)
+I will try to document everything here in English. The goal is to share my knowledge with many in the community. The project should be an attempt to illuminate the aspect of security and to gain experience around the topic of networks and Linux. The best way to contact me is about Twitter: [@airjump](https://twitter.com/airjump)
 
 ### Project - Description
 
