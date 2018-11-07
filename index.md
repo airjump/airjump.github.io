@@ -28,7 +28,7 @@ nwdiag {
 }
 ```
 
-![First](https://github.com/airjump/scripte/blob/master/first.png)
+![First](https://github.com/airjump/scripte/blob/master/first.png?raw=true)
 
 Not quite finished but it comes. :-) 
 
