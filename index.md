@@ -12,7 +12,7 @@ Admittedly, I got some very nice hints and three new tools that help me to descr
 2. [nwdiag](http://blockdiag.com/en/nwdiag/index.html)
 3. [aafigure](https://pythonhosted.org/aafigure/)
 
-I took the test with the tools to the Git. [GIT](https://github.com/airjump/scripte.git)
+I put the test with the tools to the Git. [GIT](https://github.com/airjump/scripte.git)
 
 #### First Results
 
