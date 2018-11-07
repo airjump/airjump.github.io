@@ -30,6 +30,27 @@ nwdiag {
 
 ![First](https://github.com/airjump/scripte/blob/master/first.png)
 
+Not quite finished but it comes. :-) 
+
+```markdown
+nwdiag {
+  Internet [shape = cloud];
+  Internet -- router;
+
+  network ISP {
+      router;
+      Raspberry-PI;
+  }
+  network internal {
+      Raspberry-PI;
+      Host_01;
+      Host_02;
+  }
+}
+```
+
+![Schematic Representation](https://github.com/airjump/scripte/blob/master/schematic_representation.png?raw=true)
+
 ### Project - Description
 
 A picture says more than a thousand words. Nevertheless, a few sentences about the project. The goal is to set up a "filter" with a Raspberry PI and two USB network cards. The two network cards should not become logically visible. On the Raspberry PI runs a Linux which is configured (I hope).
