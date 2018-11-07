@@ -4,6 +4,16 @@
 
 I will try to document everything here in English. The goal is to share my knowledge with many in the community. The project should be an attempt to illuminate the aspect of security and to gain experience around the topic of networks and Linux. The best way to contact me is about Twitter: [@airjump](https://twitter.com/airjump)
 
+### Insertion and Testing
+
+Admittedly, I got some very nice hints and three new tools that help me to describe and document the project better. [@sl0](https://twitter.com/JohaPrime) Thanks.
+
+1. [ditaa](http://ditaa.sourceforge.net/)
+2. [nwdiag](http://blockdiag.com/en/nwdiag/index.html)
+3. [aafigure](https://pythonhosted.org/aafigure/)
+
+I took the test with the tools to the Git. [GIT](https://github.com/airjump/scripte.git)
+
 ### Project - Description
 
 A picture says more than a thousand words. Nevertheless, a few sentences about the project. The goal is to set up a "filter" with a Raspberry PI and two USB network cards. The two network cards should not become logically visible. On the Raspberry PI runs a Linux which is configured (I hope).
