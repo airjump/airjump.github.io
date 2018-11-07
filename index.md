@@ -14,6 +14,22 @@ Admittedly, I got some very nice hints and three new tools that help me to descr
 
 I took the test with the tools to the Git. [GIT](https://github.com/airjump/scripte.git)
 
+#### First Results
+
+```markdown
+nwdiag {
+  Internet [shape = cloud];
+  Internet -- router;
+
+  network {
+    router;
+    Raspberry PI;
+  }
+}
+```
+
+![Picture 1](https://github.com/airjump/scripte/first.png)
+
 ### Project - Description
 
 A picture says more than a thousand words. Nevertheless, a few sentences about the project. The goal is to set up a "filter" with a Raspberry PI and two USB network cards. The two network cards should not become logically visible. On the Raspberry PI runs a Linux which is configured (I hope).
