@@ -36,6 +36,8 @@ A picture says more than a thousand words. Nevertheless, a few sentences about t
 
 ```
 
+![Picture 1](https://farm5.staticflickr.com/4882/31878653118_7b9627fd9e_b.jpg)
+
 ------------------------------------------------------
 
 You can use the [editor on GitHub](https://github.com/airjump/airjump.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
