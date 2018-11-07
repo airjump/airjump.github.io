@@ -28,7 +28,7 @@ nwdiag {
 }
 ```
 
-![Picture 1](https://github.com/airjump/scripte/first.png)
+![First](https://github.com/airjump/scripte/blob/master/first.png)
 
 ### Project - Description
 
