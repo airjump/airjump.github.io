@@ -42,6 +42,17 @@ A picture says more than a thousand words. Nevertheless, a few sentences about t
 The order of the USB network cards is out. Delivery has been made. The Raspberry PI has been ordered and delivered.
 The next step is a checklist with all materials to unpack or unboxing :-) .
 
+
+| No  | Description  | Number of  | Link  |
+|---|---|---|---|
+| 01  | Raspberry PI  | 1  | https://www.raspberrypi.org/  |
+| 02  | USB Ethernet Interface  | 2  |   |
+| 03  | SD Card  | 1  | -  |
+| 04  |   |   |   |
+| 05  |   |   |   |
+| 06  |   |   |   |
+|   |   |   |   |
+
 ------------------------------------------------------------------------
 
 ## Testing
@@ -97,10 +108,3 @@ nwdiag {
 ```
 
 ![Picture 1](https://farm5.staticflickr.com/4882/31878653118_7b9627fd9e_b.jpg)
-
-
-| No  | Description  | Number of  | Link  |
-|---|---|---|---|
-| 01  | Raspberry PI  | 1  | https://www.raspberrypi.org/  |
-|   |   |   |   |
-|   |   |   |   |
