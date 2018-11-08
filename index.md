@@ -46,7 +46,7 @@ The next step is a checklist with all materials to unpack or unboxing :-) .
 | No  | Description  | Number of  | Link  |
 |---|---|---|---|
 | 01  | Raspberry Pi 3 Model B+  | 1  | https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/  |
-| 02  | USB Ethernet Interface  | 2  | https://www.anker.com/de/products/variant/aluminum-usb-3-0-auf-rj45-gigabit-ethernet-adapter/A7611011  |
+| 02  |  USB 3.0 auf RJ45 Gigabit Ethernet  | 2  | https://www.anker.com/de/products/variant/aluminum-usb-3-0-auf-rj45-gigabit-ethernet-adapter/A7611011  |
 | 03  | SD Card  | 1  | https://www.sandisk.com/home/memory-cards  |
 | 04  | Network Patch Cables  | 3  | -  |
 | 05  | RASPBIAN STRETCH WITH DESKTOP  | 1  | https://www.raspberrypi.org/downloads/raspbian/  |
