@@ -38,6 +38,10 @@ A picture says more than a thousand words. Nevertheless, a few sentences about t
 
 ![Finished](https://raw.githubusercontent.com/airjump/scripte/master/doc-network.png)
 
+### Preparations
+The order of the USB network cards is out. Delivery has been made. The Raspberry PI has been ordered and delivered.
+The next step is a checklist with all materials to unpack or unboxing :-) .
+
 ------------------------------------------------------------------------
 
 ## Testing
