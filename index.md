@@ -46,9 +46,9 @@ The next step is a checklist with all materials to unpack or unboxing :-) .
 | No  | Description  | Number of  | Link  |
 |---|---|---|---|
 | 01  | Raspberry PI  | 1  | https://www.raspberrypi.org/  |
-| 02  | USB Ethernet Interface  | 2  |   |
-| 03  | SD Card  | 1  | -  |
-| 04  |   |   |   |
+| 02  | USB Ethernet Interface  | 2  | https://www.anker.com/de/products/variant/aluminum-usb-3-0-auf-rj45-gigabit-ethernet-adapter/A7611011  |
+| 03  | SD Card  | 1  | https://www.sandisk.com/home/memory-cards  |
+| 04  | Network Patch Cables  | 3  | -  |
 | 05  |   |   |   |
 | 06  |   |   |   |
 |   |   |   |   |
