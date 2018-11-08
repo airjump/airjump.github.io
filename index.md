@@ -43,7 +43,7 @@ The order of the USB network cards is out. Delivery has been made. The Raspberry
 The next step is a checklist with all materials to unpack or unboxing :-) .
 
 
-| No  | Description  | Number of  | Link  |
+| No  | Description  | Count  | Link  |
 |---|---|---|---|
 | 01  | Raspberry Pi 3 Model B+  | 1  | https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/  |
 | 02  |  USB 3.0 auf RJ45 Gigabit Ethernet  | 2  | https://www.anker.com/de/products/variant/aluminum-usb-3-0-auf-rj45-gigabit-ethernet-adapter/A7611011  |
