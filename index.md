@@ -36,7 +36,7 @@ A picture says more than a thousand words. Nevertheless, a few sentences about t
 
 #### Visualization
 
-![Finished](hhttps://github.com/airjump/scripte/blob/master/doc-network.png?raw=true)
+![Finished](https://raw.githubusercontent.com/airjump/scripte/master/doc-network.png)
 
 ------------------------------------------------------------------------
 
